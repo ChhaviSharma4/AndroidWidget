@@ -1,2 +1,2 @@
-# Widget1
-# SabziMandi
+# Widget
+An android app widget create on android studio
